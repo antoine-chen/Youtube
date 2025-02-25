@@ -4,8 +4,6 @@ Description
 
 Ce projet est une réplique de la page d'accueil de YouTube. Il s'agit d'une simple interface statique recréant le design de YouTube lorsque l'utilisateur arrive sur le site.
 
-.
-
 # 🛠️ Technologies utilisées
 
 HTML
@@ -22,7 +20,7 @@ Sidebar avec différentes catégories (Tendances, Abonnements, Bibliothèque, et
 
 Responsive design
 
-Installation
+# 📥 Installation
 
 Clonez ce dépôt :
 
@@ -32,7 +30,7 @@ Clonez ce dépôt :
 
 2. Ouvrez le fichier index.html dans votre navigateur.
 
-3. Voici le lien du site et du code ci dessus :
+3. Voici le lien du site et du code ci dessus : https://antoine-chen.github.io/Youtube/
 
 
 
