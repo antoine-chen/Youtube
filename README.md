@@ -30,7 +30,8 @@ Clonez ce dépôt :
 
 2. Ouvrez le fichier index.html dans votre navigateur.
 
-3. Voici le lien du site et du code ci dessus : https://antoine-chen.github.io/Youtube/
+# 🌐 Hébergement en ligne
+## Voici le lien du site et du code ci dessus : https://antoine-chen.github.io/Youtube/
 
 
 
