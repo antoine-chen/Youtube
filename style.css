@@ -184,6 +184,29 @@ body {
 
 
 /*----------------------- les vidéos ------------------------------ */
+.video {
+    display: flex;
+    flex-direction: column;
+}
+
+.containMoi {
+    margin: 30px auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 50px;
+}
+.sizetete {
+    height: 300px;
+    width: 300px;
+    border-radius: 200px;
+}
+
+.logo {
+    height: 60px;
+    width: 60px;
+    border-radius: 20px;
+}
 
 .mainyoutube {
     display: flex;
@@ -205,6 +228,10 @@ body {
 }
 
 @media (max-width: 1100px) {
+    .containMoi {
+        display: flex;
+        flex-direction: column;
+    }
     .containvideo {
         grid-template-columns: repeat(1, 1fr);
     }
@@ -236,6 +263,10 @@ body {
         font-size: 15px;
         max-width: 220px;
     }
+    .boxvideo {
+        margin: 0 auto ;
+    }
+
     .barrerecherche {
         display: flex;
         align-items: center;
@@ -245,7 +276,7 @@ body {
     }
     .barrerecherche .recherche {
         display: flex;
-        gap: 100px;
+        gap: 70px;
         align-items: center;
         border: 2px solid grey;
         border-radius: 30px;
@@ -254,6 +285,8 @@ body {
     .mainyoutube {
         display: flex;
         flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
 } 
 
@@ -282,6 +315,7 @@ body {
     width: 400px;
     border-radius: 20px;
 }
+
 
 
 
